@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Maha Khedri
 
-<!--
-**MahaKhedhri/MahaKhedhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a computer science student specializing in **Big Data and Data Analysis** at ISAMM.  
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maha-khedri&label=Profile%20views&color=0e75b6&style=flat" alt="maha-khedri" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+
+- 💻 **Programming:** Java, Python, JavaScript, PHP  
+- 📊 **Data & Analytics:** SQL, Pandas, Spark, Hadoop, MapReduce  
+- ☁️ **Tools & Platforms:** Firebase, Docker, Git  
+- 🌐 **Web & Frontend:** HTML, CSS, React  
+
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahaKhedhri)](https://github.com/MahaKhedhri/github-readme-stats)
