@@ -15,4 +15,4 @@
 
 ---
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=MahaKhedhri"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaKhedhri)](https://github.com/MahaKhedhri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaKhedhri&layout=compact)](https://github.com/MahaKhedhri/github-readme-stats&layout=compact)
