@@ -14,5 +14,6 @@
 - 🌐 **Web & Frontend:** HTML, CSS, React  
 
 ---
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=MahaKhedhri"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaKhedhri&layout=compact)](https://github.com/MahaKhedhri/github-readme-stats&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaKhedhri&layout=compact&hide=stars,issues&theme=dark" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahaKhedhri&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
