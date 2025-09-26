@@ -16,17 +16,23 @@ I’m a passionate **Computer Science student** specializing in **Big Data and D
 ---
 ## 💻 Current Projects
 
- Currently, I’m developing a **Crowdfunding Platform** using **React** and **Spring Boot** with **JWT Authentication** while exploring **predictive analytics and machine learning projects** like sales forecasting with **XGBoost**. I thrive at the intersection of **data, AI, and technology**, and I’m always eager to learn, experiment, and contribute to innovative projects.  
- 
-### 1️⃣ Crowdfunding Platform
-- **Stack:** React, Spring Boot, PostgreSQL, JWT  
-- **Features:** User authentication, campaign creation,community creation, secure payments, dashboard  
-- **Goal:** Full-stack web app with frontend + backend + security integration  
+Currently, I’m developing an end-to-end machine learning solution for Telco Customer Churn Prediction. I thrive at the intersection of data, AI, and technology, and I’m always eager to learn, experiment, and contribute to innovative projects.
 
-### 2️⃣ Rossmann Store Sales Forecast
-- **Stack:** Python, Pandas, XGBoost  
-- **Features:** Time series sales prediction, holiday & promotion indicators, data visualization  
-- **Goal:** Predict daily sales and optimize store inventory  
+1️⃣ Telco Customer Churn Prediction
+
+Stack: Python, XGBoost, FastAPI, Gradio, Docker, AWS ECS/Fargate, MLflow
+
+Features: End-to-end ML workflow—from data preprocessing and feature engineering to model training, REST API, and web UI deployment.
+
+Goal: Predict which customers are likely to churn, enabling faster business decisions and operationalized ML accessible via API and web UI.
+
+Challenges Solved:
+
+Health-check errors on AWS ALB → added GET / endpoint and aligned ports.
+
+Module import errors in container → fixed PYTHONPATH and corrected uvicorn app path.
+
+Deployment and MLflow model loading issues → standardized experiment names and paths, forced ECS redeploys.
 
 ---
 
