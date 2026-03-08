@@ -14,27 +14,6 @@ I’m a passionate **Computer Science student** specializing in **Big Data and D
 - Cloud Computing & DevOps  
 
 ---
-## 💻 Current Projects
-
-Currently, I’m developing an end-to-end machine learning solution for Telco Customer Churn Prediction. I thrive at the intersection of data, AI, and technology, and I’m always eager to learn, experiment, and contribute to innovative projects.
-
-1️⃣ Telco Customer Churn Prediction
-
-Stack: Python, XGBoost, FastAPI, Gradio, Docker, AWS ECS/Fargate, MLflow
-
-Features: End-to-end ML workflow—from data preprocessing and feature engineering to model training, REST API, and web UI deployment.
-
-Goal: Predict which customers are likely to churn, enabling faster business decisions and operationalized ML accessible via API and web UI.
-
-Challenges Solved:
-
-Health-check errors on AWS ALB → added GET / endpoint and aligned ports.
-
-Module import errors in container → fixed PYTHONPATH and corrected uvicorn app path.
-
-Deployment and MLflow model loading issues → standardized experiment names and paths, forced ECS redeploys.
-
----
 
 ## 🛠️ Skills & Tools
 
